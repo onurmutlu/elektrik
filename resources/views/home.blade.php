@@ -337,7 +337,7 @@
                                             <h5 class="info-title">ADRES</h5>
                                             <p>
                                                 <strong>
-                                                    Смоленск, ул. Ломоносова, д. 13 - офис 114
+                                                    Yahyakaptan Bayır Sok. No:9 Daire:6 İzmit KOCAELİ
                                                 </strong>
                                             </p>
                                         </div>
@@ -347,20 +347,20 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <label class="control-label">ФИО</label>
-                                        <input type="text" name="name" class="form-control" placeholder="ФИО">
+                                        <label class="control-label">Ad Soyad</label>
+                                        <input type="text" name="name" class="form-control" placeholder="Ad Soyad">
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <label class="control-label">Контакты</label>
-                                        <input type="email" name="contact" class="form-control" placeholder="E-Mail / Viber / Skype" />
+                                        <label class="control-label">İletişim</label>
+                                        <input type="email" name="contact" class="form-control" placeholder="E-Mail / Telefon / Whatsapp" />
                                     </div>
                                 </div>
                             </div>
                             <div class="form-group">
-                                <label class="control-label">Сообщение / вопрос</label>
-                                <textarea name="messages" class="form-control" id="messages" rows="6" placeholder="Сообщение / вопрос"></textarea>
+                                <label class="control-label">Konu / Mesaj</label>
+                                <textarea name="messages" class="form-control" id="messages" rows="6" placeholder="Konu / Mesaj"></textarea>
                             </div>
                             <div class="row">
                                 <div class="col-md-6">
@@ -374,7 +374,7 @@
 
                                 </div>
                                 <div class="col-md-6">
-                                    <button type="submit" class="btn btn-rose pull-right"><i class="nc-icon nc-email-85"></i> Контакты</button>
+                                    <button type="submit" class="btn btn-rose pull-right"><i class="nc-icon nc-email-85"></i> İletişim</button>
                                 </div>
                             </div>
                         </div>
