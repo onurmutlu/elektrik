@@ -54,6 +54,9 @@
       <replace>/vendor/paperkit/assets/</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -153,6 +156,7 @@
     <option name="width" value="1543" />
     <option name="height" value="1027" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -231,12 +235,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563971714901</updated>
       <workItem from="1563971717096" duration="635000" />
-      <workItem from="1564142430575" duration="7520000" />
+      <workItem from="1564142430575" duration="7897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8155000" />
+    <option name="totallyTimeSpent" value="8532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="99" y="23" width="1543" height="1027" extended-state="0" />
