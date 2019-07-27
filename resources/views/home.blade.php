@@ -181,7 +181,15 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto text-center">
-                    <h2 class="title"><strong>7 Gün 24 Saat Elektrik Teknik Servisi <br /> Yahya Kaptan - İzmit - Kocaeli <br /> 0 (538) 558 73 91</strong></h2>
+                    <h2 class="title"><strong>7 Gün 24 Saat Elektrik Teknik Servisi <br /> Yahya Kaptan - İzmit - Kocaeli <br /> 0 (538) 558 73 91 <br />
+
+                            <a href="tel:+905385587391" class="btn btn-danger">
+                                <i class="fa fa-phone"></i> BİZİ ARAYIN
+                            </a>
+
+
+
+                        </strong></h2>
                 </div>
             </div>
         </div>
@@ -225,7 +233,15 @@
                     <div class="card" data-background="image" style="background-image: url('/assets/image/service6.jpg')">
                         <div class="card-body">
 
-                                <h3 class="card-title"><strong>Elektrik işlerinizde 7/24 profesyonel kadromuzla sizlere hizmet vermekteyiz.</strong></h3>
+                                <h3 class="card-title"><strong>Elektrik işlerinizde 7/24 profesyonel kadromuzla sizlere hizmet vermekteyiz. <br />
+
+                                        <a href="https://wa.me/905385587391?text=Elektrik%20arıza%20web%20sitesi%20hizmet%20talebi%20:%20" class="btn btn-success" target="_blank">
+                                            <i class="fa fa-whatsapp"></i> Whatsapp Mesaj
+                                        </a>
+
+
+
+                                    </strong></h3>
 
                         </div>
                     </div>
@@ -233,7 +249,27 @@
                 <div class="col-md-5">
                     <div class="card" data-background="image" style="background-image: url('/assets/image/service5.jpg')">
                         <div class="card-body">
-                                <h3 class="card-title"><strong>Arayın ustanız kapınıza gelsin <br /> 0 (538) 558 73 91 </strong></h3>
+                                <h3 class="card-title"><strong>Arayın ustanız kapınıza gelsin <br />
+
+
+
+                                        0 (538) 558 73 91 <br />
+
+
+
+
+                                        <a href="tel:+905385587391" class="btn btn-danger">
+                                            <i class="fa fa-phone"></i> BİZİ ARAYIN
+                                        </a>
+
+
+
+
+
+
+
+
+                                    </strong></h3>
                         </div>
                     </div>
                 </div>
@@ -273,6 +309,20 @@
                                             <p>
                                                 <strong>
                                                     0 (538) 558 73 91 <br />
+                                                </strong>
+                                            </p>
+                                            <p>
+                                                <strong>
+                                                    <a href="https://wa.me/905385587391?text=Elektrik%20arıza%20web%20sitesi%20hizmet%20talebi%20:%20" class="btn btn-success" target="_blank">
+                                                        <i class="fa fa-whatsapp"></i> Whatsapp Mesaj
+                                                    </a> <br />
+                                                </strong>
+                                            </p>
+                                            <p>
+                                                <strong>
+                                                    <a href="tel:+905385587391" class="btn btn-danger">
+                                                        <i class="fa fa-phone"></i> BİZİ ARAYIN
+                                                    </a> <br />
                                                 </strong>
                                             </p>
                                         </div>
@@ -369,6 +419,16 @@
                     <li>
                         0 (538) 558 73 91
                     </li>
+                    <li>
+                        <a href="https://wa.me/905385587391?text=Elektrik%20arıza%20web%20sitesi%20hizmet%20talebi%20:%20" class="btn btn-success" target="_blank">
+                            <i class="fa fa-whatsapp"></i> Whatsapp Mesaj
+                        </a>
+                    </li>
+                    <li>
+                        <a href="tel:+905385587391" class="btn btn-danger">
+                            <i class="fa fa-phone"></i> BİZİ ARAYIN
+                        </a>
+                    </li>
 
                 </ul>
             </nav>
@@ -393,7 +453,7 @@
 <script src="/assets/js/plugins/moment.min.js"></script>
 <script src="/assets/demo//vertical-nav.js" type="text/javascript"></script>
 <script src="/assets/js/paper-kit.js?v=2.2.2" type="text/javascript"></script>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key="></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbfh6BaJ_Fdhqjh1JQW0_2iQUNx3r8h3E"></script>
 <script src="/assets/js/plugins/presentation-page/main.js"></script>
 <script>
     $(document).ready(function() {
