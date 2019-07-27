@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>
-        Yahya Kaptan Elektrik - İzmit KOCAELİ
+        Yahya Kaptan Elektrikçi - İzmit Elektrikçi - 0 (538) 558 73 91 - KOCAELİ
     </title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
 
@@ -19,6 +19,9 @@
 
     <!-- webmaster.yandex.com -->
     <meta name="yandex-verification" content="XXXXXXXXXXXXX" />
+
+    <meta name="description" content="İzmit'te Her Bölgeye 7/24 Hizmet. Her Türlü Elektrik İşleriniz için profesyonel kadromuzla hizmetinizdeyiz - 0 (538) 558 73 91" />
+    <meta name="keywords" content="Elektrik Arıza ve Bakım İşlemleri, Elektrik Arızası Teknik Servis, Sigorta ve Şalter Değişimi, Avize Montajı, Anahtar Priz Değişimi, Led Aydınlatma, Led Havuz Sistemleri, Proje Uygulama, Desant İşleri, Kablo Kanal Montajı, Zil ve Diafon İşlemleri, Komple Elektrik Tesisatı Değişimi, Elektrik Tesisat ve Taahhütü, Şohben Tesisatı ve Montajı, Pano Arızaları" />
 
 </head>
 

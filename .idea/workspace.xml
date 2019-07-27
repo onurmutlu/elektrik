@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f46f3c5-0256-4718-8005-e0910112980f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/assets/js/paper-kit.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/paper-kit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,23 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="188" selection-start-line="188" selection-end-line="188" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/assets/js/paper-kit.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1437">
-              <caret line="633" column="36" selection-start-line="633" selection-start-column="36" selection-end-line="633" selection-end-column="36" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="184" selection-start-line="23" selection-start-column="184" selection-end-line="23" selection-end-column="184" />
             </state>
           </provider>
         </entry>
@@ -66,8 +54,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/public/assets/js/paper-kit.js" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -244,18 +232,18 @@
       <updated>1563971714901</updated>
       <workItem from="1563971717096" duration="635000" />
       <workItem from="1564142430575" duration="9385000" />
-      <workItem from="1564215941778" duration="1922000" />
+      <workItem from="1564215941778" duration="2481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11942000" />
+    <option name="totallyTimeSpent" value="12501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="98" y="23" width="1543" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25649568" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09860093" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -295,13 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/js/paper-kit.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1437">
@@ -309,6 +290,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="184" selection-start-line="23" selection-start-column="184" selection-end-line="23" selection-end-column="184" />
         </state>
       </provider>
     </entry>
