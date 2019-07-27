@@ -21,6 +21,16 @@
     <meta name="yandex-verification" content="671afe5f4f97b7d1" />
     <meta name="google-site-verification" content="gO6lkslvKwkcP8KzZjFC6G85nHe8SkyVWwrO0eGalIs" />
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144639961-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-144639961-1');
+    </script>
+
     <meta name="description" content="İzmit'te Her Bölgeye 7/24 Hizmet. Her Türlü Elektrik İşleriniz için profesyonel kadromuzla hizmetinizdeyiz - 0 (538) 558 73 91" />
     <meta name="keywords" content="Elektrik Arıza ve Bakım İşlemleri, Elektrik Arızası Teknik Servis, Sigorta ve Şalter Değişimi, Avize Montajı, Anahtar Priz Değişimi, Led Aydınlatma, Led Havuz Sistemleri, Proje Uygulama, Desant İşleri, Kablo Kanal Montajı, Zil ve Diafon İşlemleri, Komple Elektrik Tesisatı Değişimi, Elektrik Tesisat ve Taahhütü, Şohben Tesisatı ve Montajı, Pano Arızaları" />
 
