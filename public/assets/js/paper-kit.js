@@ -494,7 +494,7 @@ demo = {
 
     var marker = new google.maps.Marker({
       position: myLatlng,
-      title: "Creative Tim Office"
+      title: "Yahyakaptan Elektrikçi"
     });
 
     // To add the marker to the map, call setMap();
@@ -504,7 +504,7 @@ demo = {
 
   initContactUsMap2: function() {
 
-    var myLatlng = new google.maps.LatLng(44.445248, 26.099672);
+    var myLatlng = new google.maps.LatLng(40.761804, 29.980806);
     var mapOptions = {
       zoom: 14,
       center: myLatlng,
@@ -631,7 +631,7 @@ demo = {
 
     var marker = new google.maps.Marker({
       position: myLatlng,
-      title: "Creative Tim Office"
+      title: "Yahyakaptan Elektrikçi"
     });
 
     // To add the marker to the map, call setMap();
