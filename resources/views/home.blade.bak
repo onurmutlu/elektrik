@@ -59,25 +59,72 @@
             <div class="content-center">
                 <div class="container">
                     <div class="row">
+                        <div class="col-md-5">
+                            <div class="card card-contact card-raised">
+                                <div class="card-header header-raised header-primary text-center">
+                                    <h5 class="card-title"><strong>Yahyakaptan Elektrik</strong></h5>
+                                </div>
 
-                        <div class="col-md-6  ml-auto">
-                            <h1 class="title"> Elektrik Ustanız </h1>
+                                <form role="form" id="contact-form" method="post" action="{{ route('contactus.store') }}">
 
-                            <h3 class="title"><strong>Yahyakaptan İzmit</strong></h3>
+                                    {{ csrf_field() }}
 
-                            <a href="https://wa.me/905385587391?text=Elektrik%20arıza%20web%20sitesi%20hizmet%20talebi%20:%20" class="btn btn-success" target="_blank">
-                                <i class="fa fa-whatsapp"></i> Whatsapp Mesaj
-                            </a>
+                                    <div class="card-body">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label class="control-label">Ad Soyad</label>
+                                                    <input type="text" name="name" class="form-control" placeholder="Ad Soyad">
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <div class="form-group">
+                                                    <label class="control-label">İletişim</label>
+                                                    <input type="text" name="contact" class="form-control" placeholder="E-Mail / Telefon / Whatsapp" />
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div class="form-group">
+                                            <label class="control-label">Konu / Mesaj</label>
+                                            <textarea name="messages" class="form-control" id="messages" rows="2" placeholder="Konu / Mesaj"></textarea>
+                                        </div>
+
+
+
+
+
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <!-- Google ReCaptcha Control -->
+
+                                                <!-- Google ReCaptcha Control -->
+                                            </div>
+
+                                            <div class="col-md-6">
+                                                <button type="submit" class="btn btn-rose pull-right"> <i class="nc-icon nc-bulb-63"></i> İLETİŞİM</button>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </form>
+
+                            </div>
                         </div>
 
 
 
                         <div class="col-md-6  ml-auto">
+                            <h1 class="title"> Elektrik Ustanız </h1>
 
-                            <h4 class="description"><strong>İzmit'te Her Bölgeye 7/24 Hizmet. Her Türlü Elektrik İşleriniz için profesyonel kadromuzla hizmetinizdeyiz  <br /><br />  0 (538) 558 73 91</strong></h4>
+                            <h3 class="title"><strong>Yahyakaptan İzmit</strong></h3>
+                            <h4 class="description"><strong>İzmit'te Her Bölgeye 7/24 Hizmet. Her Türlü Elektrik İşleriniz için profesyonel kadromuzla hizmetinizdeyiz  <br />  0 (538) 558 73 91</strong></h4>
                             <br />
-                            <a href="tel:+905385587391" class="btn btn-danger">
-                                <i class="fa fa-phone"></i> BİZİ ARAYIN
+                            <a href="/#contact-us" data-scroll="true" data-id="#contact-us" class="btn btn-danger">
+                                <i class="nc-icon nc-email-85"></i> İletişim
                             </a>
                         </div>
 
@@ -163,7 +210,7 @@
                                     42 Evler <br />
                                     Mehmet Ali Paşa Mahallesi <br />
                                     Karadenizliler Mahallesi <br />
-                                    İzmit Çevre Köyleri<br />
+                                    <br />
                                     <br />
                                 </strong>
                             </p>
@@ -175,6 +222,9 @@
     </div>
 </div>
 <!-- *** END  *** -->
+
+
+
 
 <div class="section section-project cd-section" id="slogan">
     <div class="project-4 section section-dark">
@@ -314,7 +364,7 @@
                             </div>
                             <div class="row">
                                 <div class="col-md-6">
-
+                                    
                                 </div>
                                 <div class="col-md-6">
                                     <button type="submit" class="btn btn-rose pull-right"><i class="nc-icon nc-email-85"></i> İletişim</button>
