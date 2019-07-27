@@ -28,7 +28,7 @@
     <div class="container">
         <div class="navbar-translate">
             <a class="navbar-brand" href="/" rel="tooltip" title="Yahyakaptan Elektrikçi" data-placement="bottom">
-                Yahyakaptan ELEKTRİKÇİ
+                YAHYAKAPTAN ELEKTRİKÇİ
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-bar bar1"></span>
@@ -221,7 +221,7 @@
         </div>
     </div>
 </div>
-<!-- *** END PRICING *** -->
+<!-- *** END  *** -->
 
 
 
@@ -239,7 +239,7 @@
 </div>
 
 
-<div class="section section-project cd-section" id="shema-raboty-s-nami">
+<div class="section section-project cd-section" id="hakkimizda">
     <div class="projects-1">
         <div class="container">
             <div class="row">
