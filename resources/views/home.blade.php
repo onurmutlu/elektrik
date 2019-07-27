@@ -39,7 +39,7 @@
         <div class="collapse navbar-collapse" data-nav-image="/assets/img/blurred-image-1.jpg" data-color="orange">
             <ul class="navbar-nav ml-auto">
 
-                <li class="dropdown nav-item"> <a class="nav-link" data-scroll="true" data-id="#hizmetler" href="/#hizmetler" aria-expanded="false">ANASAYFA</a> </li>
+                <li class="dropdown nav-item"> <a class="nav-link" data-scroll="true" data-id="#anasayfa" href="/#anasayfa" aria-expanded="false">ANASAYFA</a> </li>
 
                 <li class="dropdown nav-item"> <a class="nav-link" data-scroll="true" data-id="#hizmetler" href="/#hizmetler" aria-expanded="false">HİZMETLER</a> </li>
 
@@ -52,7 +52,7 @@
     </div>
 </nav>
 
-<div class="section section-header cd-section" id="headers">
+<div class="section section-header cd-section" id="anasayfa">
     <div class="header-1">
         <div class="page-header" style="background-image: url('/assets/image/service1.jpg');">
             <div class="filter"></div>
@@ -398,7 +398,7 @@
 <nav id="cd-vertical-nav">
     <ul>
         <li>
-            <a href="#headers" data-number="1">
+            <a href="#anasayfa" data-number="1">
                 <span class="cd-dot"></span>
                 <span class="cd-label">ANASAYFA</span>
             </a>
