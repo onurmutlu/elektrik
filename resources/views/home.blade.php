@@ -7,7 +7,7 @@
     <link rel="icon" type="image/png" href="/assets/img/favicon.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>
-        Yahya Kaptan Elektrikçi - İzmit Elektrikçi - 0 (538) 558 73 91 - KOCAELİ
+        Yahya Kaptan Elektrikçi - İzmit Elektrikçi - 0 (538) 558 73 91 - KOCAELİ - Elektrik Ustası
     </title>
     <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
 
@@ -467,7 +467,7 @@
 <script src="/assets/js/plugins/moment.min.js"></script>
 <script src="/assets/demo//vertical-nav.js" type="text/javascript"></script>
 <script src="/assets/js/paper-kit.js?v=2.2.2" type="text/javascript"></script>
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAbfh6BaJ_Fdhqjh1JQW0_2iQUNx3r8h3E"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcE55C4FBgRXEH_zHhqeTZpu4r3nP0X1k"></script>
 
 <script src="/assets/js/plugins/presentation-page/main.js"></script>
 <script>
